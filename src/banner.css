@@ -1,0 +1,29 @@
+.background {
+    background-image: url(https://cdn.allwallpaper.in/wallpapers/1920x1080/6774/star-trek-enterprise-1920x1080-wallpaper.jpg);
+    background-position-y: -130px;
+    height: 400px;
+    display: flex;
+    overflow: auto;
+}
+.text {
+    padding-top: 50px;
+    width: 30%;
+    margin: 80px 120px;  
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: start;
+    margin: 0;
+    color: white;
+    text-shadow: 2px 2px rgb(56, 56, 56);
+}
+
+h2 {
+    font-size: 15pt;
+    text-align: start;
+    margin: 0;
+    color: white;
+    text-shadow: 2px 2px rgb(56, 56, 56);
+}
